@@ -10,7 +10,7 @@ public class DemoController {
 
     @GetMapping
     public String demo() {
-        return "Hello from demo 1";
+        return "Hello from demo 1  after commit";
     }
 
 }
